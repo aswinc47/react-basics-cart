@@ -1,0 +1,17 @@
+.rest-img{
+    width: 100%;
+}
+
+.rest-details h1{
+    font-size: 5em;
+    font-weight: 600;
+}
+
+.rest-details h4{
+    margin-bottom: 0.8em;
+
+}
+
+.rest-details h3{
+    font-size: 3em;
+}

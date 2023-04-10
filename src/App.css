@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +33,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+*{
+  overflow-x: hidden;
+}
+
+.card-img{
+  height: 18em;
+  
+}
+.cardcol{
+  padding-left: 10rem;
+}
+
+.cards:hover{
+  scale: 1.05;
 }
